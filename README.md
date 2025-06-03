@@ -24,11 +24,11 @@ pip install colorama
 ```
 ```bash
 git clone https://github.com/DoOmSlAeYr/network-test.git
-&& cd network-test
 ```
-use this to run it 
+```bash
+cd network-test
+```
 ```bash
 python network_test.py
 ```
 Credits to » DoomSlayer
-
